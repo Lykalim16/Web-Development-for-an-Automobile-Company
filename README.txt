@@ -1,3 +1,9 @@
+Authors: 
+  GOMEZ, Kobe Olsen S.
+  LIM, Lyka Raquel C.
+  Oabel, Cliff
+
+Date: 2020
 
 Welcome the readme file of our website
 
